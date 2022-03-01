@@ -49,7 +49,7 @@ public static void Dispenser(int Money,int CandiesPrice){
 System.out.println("Please Come Again!");
   }
   else{
-    System.out.println("Sorry. Your money is not enough. Here's your " + Money + " your change.");
+    System.out.println("Sorry. Your money is not enough. Here's your " + Money + ", your change.");
   }
 }
 
